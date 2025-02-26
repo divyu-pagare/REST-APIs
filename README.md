@@ -18,4 +18,7 @@
    - faster for simple requests.
    - simple to develop and maintain.
    - Fault tolerance - loss of server does not impact user sessions.
+  
+## HTTP requests
+
 
