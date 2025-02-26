@@ -1,10 +1,10 @@
-#$ 4 types of API
+## 4 types of API
 1. Open/Public
 2. Partner 
 3. Internal
 4. Composite
 
-$# characteristics
+## characteristics
 1. stateful
 2. stateless
-3. 
+
